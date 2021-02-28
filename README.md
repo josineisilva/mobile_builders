@@ -6,7 +6,7 @@
 - [GridView](https://github.com/josineisilva/mobileprojects_builder_gridview)
 - [Layout](https://github.com/josineisilva/mobileprojects_builder_layout)
 - [Orientation](https://github.com/josineisilva/mobileprojects_builder_orientation)
-- [StatefullWidget](https://github.com/josineisilva/mobileprojects_builder_stateful)
+- [StatefulWidget](https://github.com/josineisilva/mobileprojects_builder_stateful)
 - [Future](https://github.com/josineisilva/mobileprojects_builder_future)
 - [Future v2](https://github.com/josineisilva/mobileprojects_builder_future_v2)
 - [Stream](https://github.com/josineisilva/mobileprojects_builder_stream)
